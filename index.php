@@ -1,5 +1,9 @@
 <?php
 
-echo "This is 1st content in local";
+echo "header";
+
+echo "body";
+
+echo "footer";
 
 ?>
